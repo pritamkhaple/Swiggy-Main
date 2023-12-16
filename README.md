@@ -2,4 +2,6 @@
 
 url
 
-https://swiggy-home.netlify.app/
+https://swiigyy.netlify.app/
+
+
