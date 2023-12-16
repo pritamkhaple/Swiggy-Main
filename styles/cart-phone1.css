@@ -1,0 +1,243 @@
+@media only screen and (max-width: 764px){
+
+    .navbar{
+        display: none;
+    }
+
+    .container{
+        display: block;
+    }
+
+    /* upper bar */
+.upper-bar{
+    display: block;
+    /* box-shadow: 0 15px 40px -20px rgb(40 44 63 / 15%); */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 9vh;
+    background-color: white;
+    z-index: 1000;
+    padding: 0px 7px;
+    box-shadow: 0 -2px 5px 0px #333;
+  }
+
+  .mob-logo{
+    display: block;
+    height: 6vh;
+    width: 10vw;
+    margin-top: 9px;
+    margin-left: 10px;
+  }
+
+  .mob-logo img{
+      height: 45px;
+      width: 35px;
+  }
+
+  .mob-location-div{
+    display: flex;
+  position: relative;
+  align-items: center;
+  margin-left: -16px;
+  cursor: pointer;
+  font-size: 90%;
+  color: #3d4152;
+  margin: -40px 59px;
+  }
+
+  .mob-location-div svg{
+    height: 20px;
+    width: 20px;
+  }
+
+  .upper-right{
+      display:block;
+      position: relative;
+      left: 89%;
+      top: 12px;
+  }
+
+    /* Delivery1 and Delivery2 section */
+
+    .delivery-address{
+        height: auto;
+        width: 90%;
+        margin: auto;
+    }
+
+    .span2 {
+        left: 0;
+    }
+
+    .delivery2 p{
+        width: 50%;
+    }
+
+    .min {
+        margin: 7px 0px 8px 0px;
+    }
+
+
+    /* Payement Section */
+
+    .container1{
+        width: 85%;
+    }
+
+    .payement{
+        height: 542px;
+        width: 90%;
+        margin: 19px auto 0 auto;
+    }
+
+    .payement1{
+        margin: 25px 2px;
+    }
+
+    .payement2{
+        height: 300px;
+        width: 100vw;;
+    }
+
+    .pay-span1 {
+    font-size: 0.9rem;
+
+    }
+
+    .pay-left{
+        height: 35px;
+        width: auto;
+        bottom: 6%;
+        position: relative;
+        padding: 7px;
+    }
+
+    .pay-ul{
+        display: flex;
+        font-size: 0.8rem;
+    }
+
+    .pay-ul li {
+        margin: 0;
+    }
+
+    .symbol1{
+        display: none;
+    }
+
+    .symbol{
+        display: none;
+    }
+
+    .icl1{
+        margin: 0 0 0 8px;
+    }
+
+    .icl2{
+        margin: 0 0 0 3px;
+    }
+
+    .icl3{
+        margin: 0 0 0 9px;
+    }
+
+    .icl4{
+        margin: 0 0 0 22px;
+    }
+
+    .icl5{
+        margin: 0 0 0 9px;
+    }
+
+    .p2li{
+        margin: 6px 13px 0px 0px;
+    }
+
+    .pay-right{
+        top: 13%;
+        right: 253px;
+        /* left: -79%; */
+        position: relative;
+        margin-left: 0;
+    }
+
+    .payr1{
+        position: relative;
+        /* top: 5px;
+        left: 16px; */
+        width: 200px;
+        margin: 0 0 0 0;
+    }
+
+    .payr1-span1{
+        top: 0;
+    }
+
+    .payr1-span2{
+        position: relative;
+        
+        margin: 3px 0 4px 0;
+    }
+
+    .payr1 a{
+        margin: 0;
+        position: relative;
+        
+    }
+
+    .payr2{
+        width: 95%;
+        margin: 0 0 0px 0px;
+        /* padding: 7px; */
+        border-bottom: none;
+        position: relative;
+        right: 14%;
+    }
+
+    .payr2 ul{
+        /* margin: 18px 0px 0px 10px; */
+        border-bottom: 1px solid black;
+    }
+    
+    .payr3{
+        margin: 0 0 0 0;
+    }
+
+    /* Container 2 Section */
+
+    .container2{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .order-bill {
+        width: 248px;
+        left: 4%;
+        border: 1px solid #e9ecee;
+        padding: 20px;
+        position: relative;
+    }
+
+    .review{
+        width: 248px;
+        left: 4%;
+        border: 1px solid #e9ecee;
+        padding: 20px;
+        position: relative;
+    }
+
+    .price {
+        width: 48px;
+    }
+
+
+
+
+    .footer{
+        display: none;
+    }
+
+
+}

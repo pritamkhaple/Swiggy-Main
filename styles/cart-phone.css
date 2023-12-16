@@ -1,0 +1,151 @@
+@media only screen and (max-width: 764px){
+
+    .navbar{
+        display: none;
+
+    }
+
+   .container{
+    width: 99vw;
+   }
+
+    .delivery-address{
+        width: 100%;
+        height: auto;
+        left: 10%;
+        position: relative;
+    }
+    .span2{
+        left: 15%;
+    }
+
+    .delivery1 i {
+        margin-left: 0;
+    }
+
+    .chk{
+        left: 20%;
+    }
+
+    .delivery2 p{
+        width: 50%;
+        font-size: .6rem;
+        font-weight: 500;
+    }
+    
+
+
+    
+
+    .payement{
+        /* display: flex; */
+        width: 85vw;
+        left: 8%;
+        position: relative;
+        height: auto;
+        }
+
+    .pay-span1 {
+        font-size: 0.8rem;
+        /* font-weight: 700; */
+        position: relative;
+        bottom: 21px;
+        margin: 0px 12px;
+    }
+
+    .pay-left {
+        /* width: 70px; */
+        width: 0;
+        background-color: transparent;
+    }
+
+    .pay-ul {
+        font-size: 0.6rem;
+    }    
+
+    .payr1 {
+        margin: 0px 0px 0px 5px;
+    }
+
+    .payr1-span2 {
+        font-size: 0.6rem;
+        max-width: 178px;
+    }
+
+    .payr1 a {
+        margin: 4px 0 0 0;
+        font-size: 0.6rem;
+        width: 500px;
+        display: block;
+}
+
+.payr2 {
+    width: 60%;
+}
+
+.payr2 ul {
+    margin-left: 0;
+}
+
+.payr3-1 {
+    font-size: 0.8rem;
+    width: fit-content;
+}
+
+.payr3-3 input {
+    width: 111px;
+    height: 23px;
+}
+
+.payr3-4 span {
+    font-size: .7rem;
+    top: 1px;
+    width: 256px;
+    display: block;
+}
+
+.payr3-5 {
+    width: 40%;
+}
+    
+.payr3 {
+    margin: 14px;
+}
+
+.container2{
+    display: ;
+    top: 197%;
+    right: 94%;
+    width: 100%;
+    position: relative;
+}
+
+.pay-ul{
+    display: flex;
+    bottom: 98px;
+    position: relative;
+
+}
+
+.pay-ul li{
+    display: flex;
+    margin: 65px 8px 0 0px;   
+}
+
+.p2li{
+    margin: 0;
+}
+
+
+.footer{
+    display: none;
+}
+
+
+
+
+    
+
+
+}
+
